@@ -1,2 +1,2 @@
-# -Laptop-Price-Predictor
+# Laptop-Price-Predictor
 Machine Learning Project | Laptop Price Predictor
